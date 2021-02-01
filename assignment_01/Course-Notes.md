@@ -123,7 +123,7 @@ Module<- a file ending in .py
 **Binary operators**
 
 
-![](binary_operator.jpg)
+![](figures/binary_operator.jpg)
  
 
 **Types**
