@@ -96,7 +96,7 @@ It is a statistic analysis package that allows to do regression models, analysis
 
 ** IPython keyboard shortcuts**
 
-[alt Ipython_shortcuts](Ipython_shortcuts.jpg)
+[alt Ipython_shortcuts](assignment_01/figures/Ipython_shortcuts.jpg)
  
 **Magic commands**
 
