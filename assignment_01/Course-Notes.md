@@ -66,6 +66,8 @@ It is a statistic analysis package that allows to do regression models, analysis
 ## Chapter 2 Notes
 
 
+### Interesting highlights
+
 -Python runs by running one line of code at the time before moving to the next one.
 
 -print() <- give you the output of the code or variable you are requesting
@@ -100,11 +102,13 @@ It is a statistic analysis package that allows to do regression models, analysis
 
 -% commands are called magic commands
 
-**Common magic commands** 
+*Common magic commands*
 
 ![alt text](image.jpg)
 
  
+**Indentation and comments**
+
 Indentation in Python is made with the use of tabs and spaces and the (:) usually indicates the beginning of the indentation.
 
 The author recommends 4 spaces as the default
@@ -117,8 +121,8 @@ Module<- a file ending in .py
 
 **Binary operators**
 
+
 ![alt text](image.jpg)
- 
  
 
 **Types**
@@ -132,6 +136,7 @@ Module<- a file ending in .py
 -None represent “null” values
 
 **Slicing**
+
 Ex [:9]
 
 **Formatting arguments**
@@ -175,5 +180,6 @@ Are used to evaluate the statements and loop until it is False or you added a br
 -Is basically whatever is included between what I indicate but without including the las value
 Ex.
 
-‘list(range(8))’
+list(range(8))
+
 [0,1,2,3,4,5,6,7] # 8 is not included and list is used to have the output in a list format
