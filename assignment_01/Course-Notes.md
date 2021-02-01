@@ -96,6 +96,7 @@ It is a statistic analysis package that allows to do regression models, analysis
 
 ** IPython keyboard shortcuts**
 
+
 ![](figures/Ipython_shortcuts.jpg) 
  
 **Magic commands**
@@ -104,7 +105,7 @@ It is a statistic analysis package that allows to do regression models, analysis
 
 *Common magic commands*
 
-![alt text](image.jpg)
+![](figures/magic_commands.jpg)
 
  
 **Indentation and comments**
@@ -122,7 +123,7 @@ Module<- a file ending in .py
 **Binary operators**
 
 
-![alt text](image.jpg )
+![](binary_operator.jpg)
  
 
 **Types**
