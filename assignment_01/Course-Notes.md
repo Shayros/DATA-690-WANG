@@ -1,6 +1,7 @@
 # Assignment 1: Reflection of the first class and Chapter 1 & 2 notes
 
 **Author**: Shaimar R. González Morales
+
 **Date**: 1/31/2021
 
 **Reference**: McKinney, Wes. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and I Pytho.2nd edition. O’Reilly Media, Inc. 2018.
@@ -96,6 +97,7 @@ It is a statistic analysis package that allows to do regression models, analysis
 ![alt text](image.jpg)
  
 **Magic commands**
+
 -% commands are called magic commands
 
 **Common magic commands** 
@@ -109,19 +111,24 @@ The author recommends 4 spaces as the default
 
 (;) are used to separate information in the line of code
 
-# <- is used to provide comments that can help understand the function of the code or why is being run. Also, it helps you avoid deleting code that maybe you don’t have to use in the moment.
+(#) <-is used to provide comments that can help understand the function of the code or why is being run. Also, it helps you avoid deleting code that maybe you don’t have to use in the moment.
 
 Module<- a file ending in .py
 
 **Binary operators**
+
 ![alt text](image.jpg)
  
  
 
 **Types**
+
 -Numbers can be either float (when the number is (.) something ex. 4.5) or * int* (4)
+
 -Strings (str) is when it uses quotation like (“little”) or (‘little)
+
 -Boolian (bool) represent True or False
+
 -None represent “null” values
 
 **Slicing**
@@ -130,7 +137,9 @@ Ex [:9]
 **Formatting arguments**
 
 -{0:.2f} you want to have it as a float with two decimals like ex. 2.00 (observation it is not indicating that the number is 2)
+
 -{1:s} second will be a str
+
 -{2:d} third will be an int  
 
 -This is because Python starts to count from number 0
@@ -139,9 +148,11 @@ Ex [:9]
 
 if statements are used to evaluate if the statement is True you can say:
 
-‘X=5’
-‘If X==5:’
-‘print(“is correct”)’
+X=5
+
+if X==5:
+
+print(“is correct”)
 
 It will print the statement because it is true but if is not true and you want to continue evaluating the statement to evaluate what is actually is you can use if and if the statement is not true and you want to evaluate something additionally you can use elif and else after if.
 
