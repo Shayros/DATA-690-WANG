@@ -98,6 +98,8 @@ It is a statistic analysis package that allows to do regression models, analysis
 
 
 ![](figures/Ipython_shortcuts.jpg) 
+
+Table from: McKinney, Wes. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and I Pytho.2nd edition. O’Reilly Media, Inc. 2018.
  
 **Magic commands**
 
@@ -106,6 +108,8 @@ It is a statistic analysis package that allows to do regression models, analysis
 *Common magic commands*
 
 ![](figures/magic_commands.jpg)
+
+Table from : McKinney, Wes. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and I Pytho.2nd edition. O’Reilly Media, Inc. 2018.
 
  
 **Indentation and comments**
@@ -124,6 +128,8 @@ Module<- a file ending in .py
 
 
 ![](figures/binary_operator.jpg)
+
+Table from:McKinney, Wes. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and I Pytho.2nd edition. O’Reilly Media, Inc. 2018.
  
 
 **Types**
