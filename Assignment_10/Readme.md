@@ -18,6 +18,8 @@ It also grat to review how to use other functions like split but in this case no
 
 1.gapminder_intro.ipynb
 
+**Second part**
+
 2.tidying_datasets.ipynb
 
 billboard_rating.csv
