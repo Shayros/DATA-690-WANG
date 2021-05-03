@@ -14,7 +14,7 @@ It also grat to review how to use other functions like split but in this case no
 
 ### Things that this folder contains:
 
-** Introduction **
+**Introduction**
 
 1.gapminder_intro.ipynb
 
